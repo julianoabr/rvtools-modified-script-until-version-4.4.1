@@ -20,9 +20,8 @@ When you install RVTOOLs, in default directory (C:\Program Files (x86)\Robware\R
 
 > Powercli version 10 or above
 
-> RVTOOLS Version 4.4.1 (February 11, 2023) or below (now RVTOOLs belongs to DELL - this script is only for old versions.
+> RVTOOLS Version 4.4.4 (October 10, 2023) or below (now RVTOOLs belongs to DELL - this script is only for old versions.
 
-> I will create a new script for newer versions 
 
 ## What this scripts does?
 
@@ -31,6 +30,8 @@ When you install RVTOOLs, in default directory (C:\Program Files (x86)\Robware\R
 3. If necessary, merge the generated .xlsx files
 4. If configured and necessary, send an email with the generated RVTOOLs files
 5. Connect with different credentials according to defined parameters
+
+> I will create a new script for newer versions 
 
 <div align="center">
   <br/>
