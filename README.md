@@ -20,15 +20,17 @@ When you install RVTOOLs, in default directory (C:\Program Files (x86)\Robware\R
 
 > Powercli version 10 or above
 
-> RVTOOLS Version 4.4.1 (February 11, 2023) or above
+> RVTOOLS Version 4.4.1 (February 11, 2023) or below (now RVTOOLs belongs to DELL - this script is only for old versions.
 
-## O que este script faz?
+> I will create a new script for newer versions 
 
-1. Conecta no(s) vCenter(s) especificado(s)
-2. Cria pastas de acordo com ano, mês e dia para armazenar o export dos RVTOOLs (formato pt-br or en-us)
-3. Se necessário, faz o merge dos arquivos
-4. Se necessário, envia e-mail com os RVTOOLs gerados
-5. Conecta com diferentes credenciais de acordo com algum parâmetro especificado
+## What this scripts does?
+
+1. Connect on specified(es) vCenter(s)
+2. Create folders according to year, month and day to store the RVTOOLs export (pt-br or en-us format)
+3. If necessary, merge the generated .xlsx files
+4. If configured and necessary, send an email with the generated RVTOOLs files
+5. Connect with different credentials according to defined parameters
 
 <div align="center">
   <br/>
